@@ -13,6 +13,7 @@ Pour déposer vos développements et livrables en général, vous devez suivre l
   - [D46 : "Programmation Web III : Design Pattern".](D46_Design_Pattern/README.md)
   - [D11 : "Développement Web IV : Frameworks PHP".](D11_Frameworks_Php/README.md)
   - [D48 : "POO C++ Java".](D48_POO_Cpp/README.md)
+  - [D47 : "Agilité - Cas pratiques".](D47_Agilite_pratique/README.md)
 
 ## Documentation
 
